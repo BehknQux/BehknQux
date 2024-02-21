@@ -1,10 +1,10 @@
 <h1>SELAM!</h1>
 <ul>
   <li>
-    I'm currently studying in [Sakarya University](https://www.sakarya.edu.tr/).
+    I'm currently studying in Sakarya University.
   </li>  
   <li>
-    My major is [Software Engineering](https://seng.sakarya.edu.tr/).
+    My major is Software Engineering.
   </li>
   <li>
     I'm working as a FrontEnd Web Developer since 2023.
