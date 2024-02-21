@@ -11,12 +11,8 @@
   </li>
 </ul>
 
-| My Skills | My Level |
-| :---: | :---: |
-| CSS | Expert |
-| JavaScript | Advanced |
-| JavaScript | Advanced |
-| Vue.js | Advanced |
-| Unity C# | Intermediate |
-| C++ | Intermediate |
-| PHP | Beginner |
+| My Skills | My Level | My Skills | My Level |
+| :---: | :---: | :---: | :---: |
+| CSS | Expert | Vue.js | Advanced |
+| JavaScript | Advanced | C++ | Intermediate |
+| Unity C# | Intermediate | PHP | Beginner |
