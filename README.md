@@ -15,6 +15,8 @@
 | :---: | :---: |
 | CSS | Expert |
 | JavaScript | Advanced |
+| JavaScript | Advanced |
+| Vue.js | Advanced |
 | Unity C# | Intermediate |
 | C++ | Intermediate |
 | PHP | Beginner |
