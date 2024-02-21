@@ -12,7 +12,7 @@
 </ul>
 
 | My Skills | My Level | My Skills | My Level |
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :--- |
 | CSS | Expert | Vue.js | Advanced |
 | JavaScript | Advanced | C++ | Intermediate |
 | Unity C# | Intermediate | PHP | Beginner |
