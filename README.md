@@ -4,4 +4,4 @@
 - 💻 My major is **Software Engineering**. 
 - 🌐 I'm working as a **FrontEnd** Web Developer since 2023.
 - 🎮 I'm also interested of **Game Development**.
-<img src="https://i.hizliresim.com/h0khost.png"/>
+<!-- <img src="https://i.hizliresim.com/h0khost.png"/> -->
